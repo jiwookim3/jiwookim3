@@ -6,10 +6,10 @@
 
 '''
 
-print('안녕')
+print('안녕하세요')
 
 '''
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
 ~~틀림~~
 <!--
 **jiwookim3/jiwookim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
